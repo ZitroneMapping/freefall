@@ -1,3 +1,5 @@
 \halflife.wad
 \zhlt.wad
 \cstrike.wad
+\tfc.wad
+\tfc2.wad
