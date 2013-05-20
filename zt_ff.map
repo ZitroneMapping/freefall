@@ -1,6 +1,6 @@
 {
 "mapversion" "220"
-"wad" "\halflife.wad;\zhlt.wad"
+"wad" "\halflife.wad;\zhlt.wad;\cstrike.wad"
 "classname" "worldspawn"
 "classname" "worldspawn"
 {
