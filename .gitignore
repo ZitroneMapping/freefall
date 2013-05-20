@@ -1,6 +1,11 @@
 *.bsp
 *.ent
+*.err
+*.lin
 *.log
+*.max
+*.p?
 *.pts
 *.rmx
+*.wic
 archive/
