@@ -6,6 +6,7 @@
 *.max
 *.p?
 *.pts
+*.rmf
 *.rmx
 *.wic
 archive/
