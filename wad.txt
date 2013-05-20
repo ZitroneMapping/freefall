@@ -1,2 +1,3 @@
 \halflife.wad
 \zhlt.wad
+\cstrike.wad
