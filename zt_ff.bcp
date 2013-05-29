@@ -11,7 +11,7 @@
       <option name="No Correction" checked="False" value="" />
       <option name="Epsilon" checked="False" value="1.0" />
       <option name="Output File" checked="False" value="" />
-      <option name="Input File" checked="True" value="RMF File" />
+      <option name="Input File" checked="False" value="RMF File" />
       <option name="WAD File" checked="False" value="" />
       <option name="Additional Parameters" checked="False" value="" />
     </stage>
