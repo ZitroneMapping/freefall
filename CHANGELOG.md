@@ -9,7 +9,7 @@
 - stuff :D
 
 ## v1.0.0 - final / v0.6.0 beta 6 ##
-24.12.07 00:01
+2007-12-24 00:01 CET
 - added func_nobuild and func_nogrenades to spawns
 - added lasers to spawns and deleted turrets
 - fixed flag-messages
@@ -17,64 +17,64 @@
 - lift reduced to one platform
 
 ## v0.5.0 - beta 5 ##
-21.12.07 22:59
+2007-12-21 22:59 CET
 - func_nobuild on high and middle towerplatform
 - fixed Defenders' spawn - grensafe
 - stuff :)
 
 ## v0.4.0 - beta 4 ##
-16.12.07 5:39
+2007-12-16 05:39 CET
 - added ladder for easyer attacking
 - fixed lift
 - fixed flag-messages
 - stuff
 
 ## v0.3.0 - beta 3 ##
-11.12.2007 22:14
+2007-12-11 22:14 CET
 - added a third lift platform to prevent falling in the "gren-box"
 - tryed to increase FPS :p
 - stuff
 
 ## v0.2.0 - beta 2 ##
-11.12.2007 17:38
+2007-12-11 17:38 CET
 - changed render mode in func_walls from "Texture" to "Solid"
 - added overview
 - map description edited
 - stuff
 
 ## v0.1.2 - beta 2 alpha 2 ##
-11.12.2007 0:47
+2007-12-11 00:47 CET
 - fixed flag-messages and deleted sound
 - changed lights under tower-platform
 - fixed nubs-spawn
 
 ## v0.1.1 - beta 2 alpha 1 ##
-10.12.2007 20:41
+2007-12-10 20:41 CET
 - added nubs-spawn
 - fixed flag-messages
 - bigger platform on tower
 
 ## v0.1.0 - beta 1 ##
-9.12.2007 22:53
+2007-12-09 22:53 CET
 - fixed "non-sprite set to glow"-bug
 - stuff
 
 ## v0.0.26 - alpha 26 ##
-9.12.2007 21:30
+2007-12-09 21:30 CET
 - added light in tower basement
 - stuff
 
 ## v0.0.26 - alpha 25 ##
-9.12.2007 21:22
+2007-12-09 21:22 CET
 - stuff
 
 ## v0.0.24 - alpha 24 ##
-9.12.2007 19:32
+2007-12-09 19:32 CET
 - fixed stairs in tower
 - fixed light in tower
 
 ## v0.0.23 - alpha 23 ##
-9.12.2007 19:27
+2007-12-09 19:27 CET
 - added roof on tower (with stairs)
 - added turrets shooting the yellow team in blue and red spawns
 - fixed turrets shooting the wrong team
@@ -83,9 +83,9 @@
 - fixed blue flag HUD sign (was red)
 
 ## v0.0.22 - alpha 22 ##
-9.12.2007 5:1
+2007-12-09 05:01 CET
 - first playable version of Zitrone Freefall
 
 ## v0.0.1 - alpha 1 ##
-6.12.2007 12:7
+2007-12-06 12:07 CET
 - first test-compile
