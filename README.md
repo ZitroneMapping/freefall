@@ -15,7 +15,7 @@ This work is licensed under a [Creative Commons Attribution-ShareAlike 3.0 Unpor
 
 ## Version history ##
 ### 2007: v1.0 ###
-The first version was released in 2007 and I quickly released the final version.
+The first version was made in 2007 and I quickly released the final version.
 ### 2009 ###
 In 2009 I started and quickly abandoned recreating the first version.
 ### 2011: v1.1 ###
