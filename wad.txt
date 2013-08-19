@@ -1,5 +1,5 @@
-\halflife.wad
-\zhlt.wad
-\cstrike.wad
-\tfc.wad
-\tfc2.wad
+wad/halflife.wad
+wad/zhlt.wad
+wad/cstrike.wad
+wad/tfc.wad
+wad/tfc2.wad
