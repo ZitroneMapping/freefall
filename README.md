@@ -10,6 +10,25 @@ The common file format used is the .map format. The Valve Hammer Editor works be
 
 This way the file stays nice and clean.
 
+## Compiling ##
+### HLFix ###
+
+### ZHLT-CSG: Constructive Solid Geometry ###
+hlcsg -nowadtextures -wadautodetect -cliptype Precise -chart -estimate -dev 2 zt_ff
+
+### ZHLT-BSP: Binary Space Partitioning ###
+hlbsp -chart -estimate -dev 2 zt_ff
+
+### ZHLT-VIS: Visible Information Set ###
+hlvis -chart -estimate -dev 2 zt_ff
+
+### ZHLT-RAD: Radiosity ###
+
+### Optimize Entity Data ###
+ripent -export zt_ff.bsp
+opt_entdata
+ripent -import zt_ff.bsp
+
 ## License ##
 This work is licensed under a [Creative Commons Attribution-ShareAlike 3.0 Unported License](http://creativecommons.org/licenses/by-sa/3.0/).
 
