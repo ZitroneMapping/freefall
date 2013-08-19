@@ -1,4 +1,7 @@
-all: zhlt
+all: hlfix zhlt
+
+hlfix:
+	hlfix zt_ff.rmf -w wad.txt
 
 zhlt:
 	hlcsg -nowadtextures -wadautodetect -cliptype Precise -chart -dev 2 zt_ff
