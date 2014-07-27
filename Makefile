@@ -5,6 +5,15 @@ WadUrl = http://goldsrc.org/files/wads/
 
 all: hlfix zhlt
 
+get-deps:
+	git clone git://github.com/kriswema/GoldsrcEditingTools.git $(LibraryDir)
+	cd $(LibraryDir);\
+	make all
+
+install-deps: get-deps
+	cd $(LibraryDir);\
+	make install
+
 hlfix:
 	hlfix zt_ff.rmf -w wad.txt
 
