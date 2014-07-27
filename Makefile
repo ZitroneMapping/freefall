@@ -17,6 +17,9 @@ install-deps: get-deps
 hlfix:
 	hlfix zt_ff.rmf -w wad.txt
 
+get-wads:
+	wget -nc -P $(WadDir) $(WadUrl)halflife.wad $(WadUrl)zhlt.wad $(WadUrl)cstrike.wad $(WadUrl)tfc.wad $(WadUrl)tfc2.wad
+
 zhlt:
 	hlcsg -nowadtextures -wadautodetect -cliptype Precise -chart -dev 2 zt_ff
 	hlbsp -chart -dev 2 zt_ff
