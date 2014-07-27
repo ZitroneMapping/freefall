@@ -3,7 +3,7 @@ LibraryDir = lib/
 WadDir = wad/
 WadUrl = http://goldsrc.org/files/wads/
 
-all: hlfix zhlt
+all: zhlt
 
 get-deps:
 	git clone git://github.com/kriswema/GoldsrcEditingTools.git $(LibraryDir)
