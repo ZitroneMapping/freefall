@@ -20,7 +20,7 @@ hlfix:
 get-wads:
 	wget -nc -P $(WadDir) $(WadUrl)halflife.wad $(WadUrl)zhlt.wad $(WadUrl)cstrike.wad $(WadUrl)tfc.wad $(WadUrl)tfc2.wad
 
-zhlt:
+zhlt: get-wads
 	hlcsg -nowadtextures -wadautodetect -cliptype Precise -chart -dev 2 zt_ff
 	hlbsp -chart -dev 2 zt_ff
 	hlvis -chart -dev 2 zt_ff
