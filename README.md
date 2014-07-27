@@ -1,4 +1,4 @@
-# Zitrone: Freefall #
+# Zitrone: Freefall [![Build Status](https://travis-ci.org/ZitroneMapping/freefall.svg?branch=master)](https://travis-ci.org/ZitroneMapping/freefall) #
 A new look at the freefall series, that I adore so much. To be seen as an improved 2007 version, but started from scratch.
 
 ## Contribute ##
