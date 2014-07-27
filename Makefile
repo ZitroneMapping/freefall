@@ -1,3 +1,8 @@
+BinaryDir = bin/
+LibraryDir = lib/
+WadDir = wad/
+WadUrl = http://goldsrc.org/files/wads/
+
 all: hlfix zhlt
 
 hlfix:
